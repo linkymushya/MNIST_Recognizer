@@ -24,5 +24,5 @@ This model is dedicated to training the classic MNIST dataset using a simple MLP
 - Suggested Python version: 3.10
   
 ### Operation mode
-- Ensure that 'data_preprocessing. py', 'GUI. py', 'MNISTRecognizer. py', 'mnist_stp. pth' are in the same directory as the folder 'data'(Due to the large size of the data and dataset files, users are requested to download the code and run it once to download the data themselves)
-- Run the GUI.Py file. If there is no folder 'data', the preprocessing file will first be run to download the dataset, which requires patience. If there is no 'mnist_stp. pth' file, the model will be trained first. After training, the model data will be saved, and then a drawing interface will appear. After that, there is no need to download data and train the model, and you can directly draw
+- Ensure that `data_preprocessing.py`, `GUI.py`, `MNISTRecognizer.py`, `mnist_stp.pth` are in the same directory as the folder `data`(Due to the large size of the data and dataset files, users are requested to download the code and run it once to download the data themselves)
+- Run the `GUI.py` file. If there is no folder `data`, the preprocessing file will first be run to download the dataset, which requires patience. If there is no `mnist_stp.pth` file, the model will be trained first. After training, the model data will be saved, and then a drawing interface will appear. After that, there is no need to download data and train the model, and you can directly draw
