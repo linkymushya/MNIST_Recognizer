@@ -6,7 +6,10 @@
 
 ### 运行环境
 
-- 所需要的库 : torch PIL numpy
+- 所需要的库 :
+  + pytorch == 2.4.1
+  + pillow == 10.4.0
+  + numpy == 1.23.5
 
 - 建议python版本：3.10
 
@@ -20,7 +23,11 @@
 This model is dedicated to training the classic MNIST dataset using a simple MLP fully connected model, and designing a GUI through tkinter and PIL libraries for users to digitally draw to verify the accuracy of the model
 
 ### Operating environment
-- Required library: torch PIL numpy
+- Required library:
+  + pytorch == 2.4.1
+  + pillow == 10.4.0
+  + numpy == 1.23.5
+
 - Suggested Python version: 3.10
   
 ### Operation mode
